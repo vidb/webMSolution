@@ -1,0 +1,3 @@
+[submodule "ISPackages"]
+	path = ISPackages
+	url = https://github.com/vidb/ISPackages.git
